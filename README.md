@@ -1,4 +1,4 @@
-# <center>Proffy</center>
+# <center>![](/.github/logo.png)</center>
 
 <br />
 
@@ -12,14 +12,12 @@
 
 - Como rodar
 
-  <br />
 
 ## 📥 Layout da aplicação
 
-O layout da aplicação foi desenvolvido pela equipe da [@Rocketseat](https://github.com/Rocketseat).
+<p>O layout da aplicação foi desenvolvido pela equipe da @Rocketseat.</p>
 
 <center><b>Versão WEB</b></center>
-
 
 
 <br />
