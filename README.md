@@ -17,10 +17,14 @@
 
 ## 📥 Layout da aplicação
 
-<p>O layout da aplicação foi desenvolvido pela equipe da @Rocketseat.</p>
+<p>O layout da aplicação foi desenvolvido pela equipe da <b>@Rocketseat</b>.</p>
 
-<center><b>Versão WEB</b></center>
-
+<p align="center">
+   <b>Versão WEB</b>
+   <p> </p>
+   <img src=".github/versaoweb-landing.PNG">
+   <img src=".github/versaoweb-search.PNG">
+</p>
 
 <br />
 
@@ -41,4 +45,4 @@
 
 
 <br />
->>>>>>> dfce4ae350ae908886f7f55d911297a773e2e1e7
+
