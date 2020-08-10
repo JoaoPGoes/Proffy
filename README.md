@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# proffy
-=======
-# <center>![](/.github/logo.png)</center>
+<center>![](/.github/logo.png)</center>
 
 <br />
 
