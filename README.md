@@ -1,6 +1,6 @@
-<center>
-  <img src=".github/logo.png" align="center">
-</center>
+<p align="center">
+   <img src=".github/logo.png" height="80">
+</p>
 
 <br />
 
