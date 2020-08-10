@@ -30,10 +30,10 @@
    <b>Versão Mobile</b>
    <p> </p>
    <div>
-      <img src=".github/versaomobile-splash.PNG" hspace="8" width="220">
-      <img src=".github/versaomobile-landing.PNG" hspace="8" width="220">
-      <img src=".github/versaomobile-search.PNG" hspace="8" width="220">
-      <img src=".github/versaomobile-favorites.PNG" hspace="8" width="220">
+      <img src=".github/versaomobile-splash.PNG" hspace="5" width="220">
+      <img src=".github/versaomobile-landing.PNG" hspace="5" width="220">
+      <img src=".github/versaomobile-search.PNG" hspace="5" width="220">
+      <img src=".github/versaomobile-favorites.PNG" hspace="5" width="220">
    </div>
 </p>
 
