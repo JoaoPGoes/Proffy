@@ -42,18 +42,16 @@
 ## 🔑 Tecnologias
 
 
-
-<br />
-
 ## 🔨 Funcionalidades
-
-
-
-<br />
+- Web: Site para cadastro de professores e estudantes.
+- Mobile: App para ligar professores e estudantes.
 
 ## 🔰 Como rodar
 
+📦 Rodar o server (API)
 
+💻 Rodar o site
 
-<br />
+📱 Rodar o app
+
 
