@@ -1,4 +1,6 @@
-<center>![](/.github/logo.png)</center>
+<center>
+  <img src=".github/logo.png" align="center">
+</center>
 
 <br />
 
